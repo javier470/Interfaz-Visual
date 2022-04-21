@@ -32,9 +32,7 @@ const Footer = () =>{
                         <li><a href="#">Cursos</a></li>
                     </ul>
                 </div>
-                <div className="footer-col">
-                    <h4>Derechos Reservados Guatemala ©2022</h4>
-                </div>
+                
             </div>
         </div>
     )
